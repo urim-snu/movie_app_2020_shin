@@ -3,7 +3,7 @@
 Movie app Tutoiral
 by Nomad Coder
 
-View : "https://urim-snu.github.io/movie_app_2020_shin/"
+View : https://urim-snu.github.io/movie_app_2020_shin/
 
 #2.0
 react aplication only renders one component.
@@ -48,3 +48,6 @@ Unmounting - componentWillUnmount()
 
 #4.0 Fetching Movies from API
 axios : fetch 위에 있는 작은 layer
+
+#5.1 Are we done?
+react hook -> no need to use class components
