@@ -3,6 +3,8 @@
 Movie app Tutoiral
 by Nomad Coder
 
+View : "https://urim-snu.github.io/movie_app_2020_shin/"
+
 #2.0
 react aplication only renders one component.
 여러 개 쓰러면 하나의 component 안에 다른 component 집어넣는 방식.
