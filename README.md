@@ -51,3 +51,16 @@ axios : fetch 위에 있는 작은 layer
 
 #5.1 Are we done?
 react hook -> no need to use class components
+
+#6.1
+routing, 동시에 2개의 components를 render할 수도 있다.
+-> 방지하기 위해 exact prop 설정
+
+#6.2
+a 태그로 버튼 만들면 페이지가 새로고침된다. react의 의미 없음
+link를 사용해본다. to prop에 url 정해줌.
+link는 router 안에 있어야 한다.
+
+#6.3
+Route Props, prop들을 함께 보내주기.
+to를 string이 아니라 object로 설정할 수 있다. pathname 과 prop들의 object
